@@ -45,7 +45,7 @@ class MainWindow(QMainWindow):
         self.column_combos: dict[str, QComboBox] = {}
 
         self.setWindowTitle("Ticket Insight Analyzer")
-        self.resize(1250, 850)
+        self.showMaximized()
 
         self._setup_ui()
 
