@@ -1,0 +1,81 @@
+ticket_id,created_at,status,priority,category,agent,customer,title
+TCK-1001,2026-03-28,Closed,Medium,Feature Request,Sofia Martinez,Umbrella,Need bulk update for ticket status
+TCK-1002,2026-05-29,Resolved,Medium,Feature Request,Ana Gomez,Wayne Enterprises,Need bulk update for ticket status
+TCK-1003,2026-05-05,In Progress,Medium,Login,Ana Gomez,SoyHenry,User cannot login after password reset
+TCK-1004,2026-03-30,In Progress,Medium,Login,Sofia Martinez,Globex,Login page shows unexpected error
+TCK-1005,2026-04-15,Open,Low,Data Issue,Carlos Ruiz,Umbrella,Customer data appears duplicated
+TCK-1006,2026-05-20,Open,High,Data Issue,Ana Gomez,Umbrella,Customer data appears duplicated
+TCK-1007,2026-05-28,Resolved,Low,Data Issue,Carlos Ruiz,SoyHenry,Incorrect status in ticket export
+TCK-1008,2026-04-07,Closed,Medium,Integration,Sofia Martinez,SoyHenry,Webhook integration is not sending events
+TCK-1009,2026-05-15,Resolved,Low,Login,Sofia Martinez,SoyHenry,Login page shows unexpected error
+TCK-1010,2026-05-28,Open,Critical,Feature Request,Ana Gomez,Umbrella,Request to export ticket history
+TCK-1011,2026-05-21,Resolved,Low,Integration,Maria Lopez,Initech,Webhook integration is not sending events
+TCK-1012,2026-06-09,Closed,High,Login,Sofia Martinez,Initech,User cannot login after password reset
+TCK-1013,2026-05-15,In Progress,Medium,Bug,Maria Lopez,Umbrella,Error when saving changes in profile
+TCK-1014,2026-05-19,Open,Critical,Login,Maria Lopez,SoyHenry,User cannot login after password reset
+TCK-1015,2026-06-01,Closed,Low,Feature Request,Ana Gomez,SoyHenry,Need bulk update for ticket status
+TCK-1016,2026-06-07,Open,High,Bug,Carlos Ruiz,SoyHenry,Dashboard crashes when filtering tickets
+TCK-1017,2026-04-12,Closed,Medium,Data Issue,Ana Gomez,Initech,Missing records in monthly report
+TCK-1018,2026-05-11,In Progress,Medium,Feature Request,Carlos Ruiz,Globex,Customer asks for custom report fields
+TCK-1019,2026-06-08,In Progress,Medium,Data Issue,John Smith,SoyHenry,Missing records in monthly report
+TCK-1020,2026-05-03,In Progress,Medium,Data Issue,Ana Gomez,Acme Corp,Incorrect status in ticket export
+TCK-1021,2026-05-19,In Progress,Low,Performance,Ana Gomez,Globex,CSV export takes too long to finish
+TCK-1022,2026-05-24,Resolved,High,Bug,John Smith,Umbrella,Unexpected blank screen after update
+TCK-1023,2026-06-01,Open,Medium,Performance,Ana Gomez,Acme Corp,CSV export takes too long to finish
+TCK-1024,2026-04-23,Resolved,High,Feature Request,Sofia Martinez,Acme Corp,Customer asks for custom report fields
+TCK-1025,2026-04-17,Open,Medium,Integration,John Smith,Acme Corp,API token returns unauthorized error
+TCK-1026,2026-03-31,Closed,High,Data Issue,Maria Lopez,SoyHenry,Customer data appears duplicated
+TCK-1027,2026-04-09,Resolved,Low,Data Issue,Ana Gomez,Globex,Incorrect status in ticket export
+TCK-1028,2026-06-07,Resolved,Medium,Integration,John Smith,SoyHenry,API token returns unauthorized error
+TCK-1029,2026-04-29,Closed,Critical,Bug,John Smith,Stark Industries,Error when saving changes in profile
+TCK-1030,2026-06-01,Resolved,Medium,Feature Request,Sofia Martinez,SoyHenry,Need bulk update for ticket status
+TCK-1031,2026-05-17,In Progress,High,Login,Maria Lopez,Wayne Enterprises,Two factor authentication code not received
+TCK-1032,2026-04-26,Closed,Low,Feature Request,Carlos Ruiz,Umbrella,Need bulk update for ticket status
+TCK-1033,2026-06-04,In Progress,Low,Integration,Maria Lopez,Acme Corp,CRM sync fails for new customers
+TCK-1034,2026-05-17,In Progress,Low,Integration,Maria Lopez,Wayne Enterprises,CRM sync fails for new customers
+TCK-1035,2026-06-05,Closed,Medium,Data Issue,Sofia Martinez,Initech,Customer data appears duplicated
+TCK-1036,2026-05-29,Open,High,Billing,Sofia Martinez,Acme Corp,Invoice amount does not match subscription plan
+TCK-1037,2026-04-06,Pending Customer,High,Integration,John Smith,Acme Corp,API token returns unauthorized error
+TCK-1038,2026-03-31,Open,High,Billing,Ana Gomez,Stark Industries,Invoice amount does not match subscription plan
+TCK-1039,2026-06-06,In Progress,Low,Integration,Maria Lopez,Globex,API token returns unauthorized error
+TCK-1040,2026-06-10,Open,Medium,Login,Maria Lopez,SoyHenry,Login page shows unexpected error
+TCK-1041,2026-05-23,Closed,Critical,Integration,Ana Gomez,Initech,CRM sync fails for new customers
+TCK-1042,2026-05-15,Open,High,Data Issue,Maria Lopez,Initech,Customer data appears duplicated
+TCK-1043,2026-05-22,Closed,Critical,Billing,John Smith,Globex,Refund request for duplicate payment
+TCK-1044,2026-05-13,Resolved,Low,Bug,Maria Lopez,Umbrella,Unexpected blank screen after update
+TCK-1045,2026-06-06,Resolved,Medium,Integration,Maria Lopez,Umbrella,API token returns unauthorized error
+TCK-1046,2026-05-22,Open,High,Integration,Sofia Martinez,Globex,CRM sync fails for new customers
+TCK-1047,2026-04-29,Resolved,Low,Billing,Ana Gomez,Initech,Invoice amount does not match subscription plan
+TCK-1048,2026-06-01,Open,Critical,Integration,Sofia Martinez,Initech,Webhook integration is not sending events
+TCK-1049,2026-06-08,Resolved,Medium,Feature Request,John Smith,Initech,Customer asks for custom report fields
+TCK-1050,2026-06-09,Open,High,Billing,John Smith,Wayne Enterprises,Refund request for duplicate payment
+TCK-1051,2026-06-08,Closed,Medium,Performance,John Smith,Wayne Enterprises,CSV export takes too long to finish
+TCK-1052,2026-04-23,In Progress,Medium,Performance,Sofia Martinez,Wayne Enterprises,Application is slow during peak hours
+TCK-1053,2026-06-05,Closed,Critical,Login,Sofia Martinez,Wayne Enterprises,Two factor authentication code not received
+TCK-1054,2026-04-29,Resolved,Medium,Bug,John Smith,Umbrella,Error when saving changes in profile
+TCK-1055,2026-05-11,Closed,Medium,Bug,John Smith,Acme Corp,Dashboard crashes when filtering tickets
+TCK-1056,2026-05-08,Pending Customer,Medium,Feature Request,Maria Lopez,Stark Industries,Need bulk update for ticket status
+TCK-1057,2026-05-18,In Progress,High,Bug,Sofia Martinez,Umbrella,Unexpected blank screen after update
+TCK-1058,2026-05-20,Open,High,Integration,Ana Gomez,Initech,API token returns unauthorized error
+TCK-1059,2026-04-05,Open,High,Integration,Ana Gomez,Globex,API token returns unauthorized error
+TCK-1060,2026-05-19,In Progress,Low,Feature Request,John Smith,Acme Corp,Request to export ticket history
+TCK-1061,2026-05-27,Resolved,Critical,Billing,Ana Gomez,Stark Industries,Payment failed but customer was charged
+TCK-1062,2026-06-06,In Progress,Critical,Data Issue,Sofia Martinez,Globex,Missing records in monthly report
+TCK-1063,2026-04-12,Closed,Critical,Data Issue,Ana Gomez,Acme Corp,Customer data appears duplicated
+TCK-1064,2026-05-04,Pending Customer,Low,Feature Request,Ana Gomez,Globex,Request to export ticket history
+TCK-1065,2026-06-08,Pending Customer,Low,Bug,Sofia Martinez,Stark Industries,Error when saving changes in profile
+TCK-1066,2026-03-28,Pending Customer,Low,Bug,Sofia Martinez,Wayne Enterprises,Dashboard crashes when filtering tickets
+TCK-1067,2026-05-25,Closed,Low,Feature Request,Maria Lopez,Acme Corp,Need bulk update for ticket status
+TCK-1068,2026-06-08,Closed,High,Billing,Maria Lopez,Globex,Invoice amount does not match subscription plan
+TCK-1069,2026-05-25,Open,Medium,Bug,John Smith,Umbrella,Error when saving changes in profile
+TCK-1070,2026-04-01,Resolved,Medium,Data Issue,Sofia Martinez,Umbrella,Customer data appears duplicated
+TCK-1071,2026-05-29,Closed,Medium,Login,Ana Gomez,Acme Corp,Login page shows unexpected error
+TCK-1072,2026-05-06,Resolved,Critical,Integration,Carlos Ruiz,Stark Industries,Webhook integration is not sending events
+TCK-1073,2026-05-09,Open,High,Integration,Carlos Ruiz,Initech,CRM sync fails for new customers
+TCK-1074,2026-06-09,Pending Customer,Medium,Performance,Sofia Martinez,Umbrella,CSV export takes too long to finish
+TCK-1075,2026-04-13,Open,High,Integration,Sofia Martinez,Acme Corp,CRM sync fails for new customers
+TCK-1076,2026-06-08,Open,Low,Billing,Sofia Martinez,SoyHenry,Refund request for duplicate payment
+TCK-1077,2026-04-23,Pending Customer,Medium,Integration,Maria Lopez,Globex,CRM sync fails for new customers
+TCK-1078,2026-05-21,Resolved,Medium,Feature Request,John Smith,Stark Industries,Request to export ticket history
+TCK-1079,2026-05-21,Resolved,High,Integration,John Smith,SoyHenry,CRM sync fails for new customers
+TCK-1080,2026-06-08,Closed,Low,Login,John Smith,Wayne Enterprises,Two factor authentication code not received
